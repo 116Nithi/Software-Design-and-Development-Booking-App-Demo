@@ -1832,8 +1832,8 @@ export default App;
 4) ทำการ Login ด้วย user: admin  password: admin123  หากระบบทำงานถูกต้อง จะแสดงรายการจองห้องพัก
 
 ### บันทึกผลการทดลอง 
-![![{2B99EBCE-96A5-401A-AB93-24D3331A79F0}](https://github.com/user-attachments/assets/8070b2b6-885e-48b8-8690-1ad389b0e15f)
-](images-path/image.png)
+![![{B91B489A-95FC-425D-AE1E-5D388B0DC18C}](https://github.com/user-attachments/assets/a5d7e9f6-93da-40c2-aea2-6973515e107a)
+
    
    
 
@@ -1962,8 +1962,8 @@ export default BookingEdit;
 5) แก้ไขข้อมูลการจองและบันทึกรูปผลการทดลอง
    
 ### บันทึกผลการทดลอง
-![![{77CD0610-CDE7-4230-A1AB-72FE4A7EC79B}](https://github.com/user-attachments/assets/78c3c4ce-20ad-46ca-8c6f-7bc0bea21c76)
-](./image-path/image.png)
+![![{AC2D0832-33AA-4B39-8D85-B9CBDE5B8A13}](https://github.com/user-attachments/assets/bb887d8e-bedc-4210-b251-8e7fc247c679)
+)
 
 ### 3.2.8 AdminDashboard Component
 
@@ -2025,7 +2025,7 @@ export default AdminDashboard;
 
 3) บันทึกผลการทดลอง เมื่อกดปุ่ม "สำหรับผู้ดูแลระบบ"
    ### บันทึกผลการทดลอง
-![![{FEAF53CD-FC67-4E94-AE13-6A4F79FB8708}](https://github.com/user-attachments/assets/e1cfb463-71fd-4800-9260-9a0a45b1bcfc)
-](image-path/image.png)
+![![{BAD5C309-7504-4BAD-95F9-3DBF2CB903FE}](https://github.com/user-attachments/assets/08b46fe9-a68c-4561-b806-8ffe0f66b71e)
+
 
 

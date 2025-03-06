@@ -530,7 +530,8 @@ app.listen(port, () => {
 
 ### บันทึกผลลัพธ์การ Get ข้อมูล
 
-![![{01DAEC4D-5E2F-4262-B471-3AF917839DC7}](https://github.com/user-attachments/assets/232a574a-8c8f-4b77-9607-6896530e334d)
+![![{4DF1CF54-E8DD-4DE3-8783-3F771699032F}](https://github.com/user-attachments/assets/80f83203-e91a-4eef-b035-456e08494427)
+
 ](images path/image.png)
 
 ### กรณีผลลัพธ์แจ้ง "error":"Token ไม่ถูกต้องหรือหมดอายุ" ให้ทำการ Login ใหม่ แล้วคัดลอก Token ที่ได้เพื่อเปลี่ยนค่าใน variable token
@@ -542,7 +543,8 @@ app.listen(port, () => {
 
 ### บันทึกผลลัพธ์การ Get ข้อมูลโดยระบุ ID
 
-![รูปผลลัพธ์การ Get ข้อมูลโดยระบุ ID](images path/image.png)
+![![{41C80361-AAB0-44F2-BFA7-11071BF32269}](https://github.com/user-attachments/assets/680c3a5c-3c1b-4de9-b3ce-598f98e772dd)
+](images path/image.png)
 
 8. สร้าง request เพื่อ Update Booking ระบุ Url คือ PUT: {{baseUrl}}/api/bookings/1
    - Headers: Authorization: Bearer {{token}}
@@ -554,7 +556,8 @@ app.listen(port, () => {
 
 ### บันทึกผลลัพธ์การ PUT เพื่อแก้ไขข้อมูล (ข้อมูล comment จะต้องไม่เป็นค่า null)
 
-![รูปผลลัพธ์การ PUT ข้อมูล](images path/image.png)
+![![{685CF097-C8E5-40D5-911E-17220AA89CA2}](https://github.com/user-attachments/assets/b5eb80fc-8c54-4fdd-b8bd-107953ae1e49)
+](images path/image.png)
 
 9. สร้าง request เพื่อ Delete Booking ระบุ Url คือ DELETE: {{baseUrl}}/api/bookings/1
    - Headers: Authorization: Bearer {{token}}

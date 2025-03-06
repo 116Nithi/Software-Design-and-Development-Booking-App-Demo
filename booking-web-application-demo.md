@@ -564,7 +564,8 @@ app.listen(port, () => {
 
 ### บันทึกผลลัพธ์การ DELETE
 
-![รูปผลลัพธ์การ delete ข้อมูล](images path/image.png)
+![![{9946D564-E995-4E3A-A10C-FD3E232F65A3}](https://github.com/user-attachments/assets/1c720d4f-3036-4805-b7f7-9cf2e0f88c53)
+](images path/image.png)
 
 9.1 ปรับปรุงแก้ไขโค้ดเพื่อให้แสดงผลการลบเป็น status : "ลบข้อมูลสำเร็จโดย [ชื่อนักศึกษา]"
 ดังรูป

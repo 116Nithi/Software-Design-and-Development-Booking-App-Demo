@@ -573,7 +573,8 @@ app.listen(port, () => {
 
 ### บันทึกผลลัพธ์การ DELETE with status
 
-![![Uploading {5F1679D9-40A9-423F-845F-B486E9FE92E4}.png…]()
+![![{F63CA9E2-E664-45EB-8823-CF8E692065B5}](https://github.com/user-attachments/assets/7fcd7a58-2e97-4bd4-99b9-d01cd2854ae4)
+]()
 ](images path/image.png)
 
 
@@ -1046,7 +1047,8 @@ npm run dev
 ```
 1.1 กดปุ่ม Ctrl ค้างไว้ แล้วคลิกลิ้ง ที่ http://localhost:เลข Port ที่รัน เพื่อเปิดหน้าเว็บการทำงาน 
 #### บันทึกผลการรัน
-![รูปผลการรันหน้า front-end](./image-path/image.png)
+![![{F41EBA9F-C35C-4FE6-937F-E873F272F311}](https://github.com/user-attachments/assets/038ab590-9c1e-4f0e-876d-e6e7f4c02e47)
+](./image-path/image.png)
 1.2 กด Ctrl + c เพื่อยกเลิกการทำงาน
 
 2. ติดตั้ง dependencies ที่จำเป็น:
@@ -1159,7 +1161,8 @@ export default App;
 ```
 2) ทดสอบรัน โดยพิมพ์คำสั่ง npm run dev แล้วบันทึกหน้าผลการรัน
 #### บันทึกรูปผลการรัน
-![ผลการรัน](./image path/image.png)
+![![{3252823F-7355-45C6-A547-B3C214056C3B}](https://github.com/user-attachments/assets/a07839d9-ffdb-48e7-8444-31e41c3401b0)
+](./image path/image.png)
 
 3) กดปุ่ม Ctrl ค้างไว้ แล้วคลิกลิ้ง ที่ http://localhost:เลข Port ที่รัน เพื่อเปิดหน้าเว็บการทำงาน แล้วตรวจสอบ error โดยไม่ต้องหยุดการทำงานของ Application
 #### บันทึกผลการรัน
@@ -1445,10 +1448,12 @@ export default BookingForm;
 
 2) กดเลือกเมนู "จองห้องพัก" หรือปุ่ม "จองห้องพักเลย" หากหน้าเว็บไม่แสดงหน้าฟอร์มการจองห้องพัก ให้ลองทำการ refresh หน้าเว็บ เพื่อให้ระบบแสดงหน้าเว็บดังตัวอย่าง
 
-![หน้าจองห้องพัก](images/front-booking.png)
+![![{9A445875-6C5C-443A-A850-4B9247624B38}](https://github.com/user-attachments/assets/d466a384-3927-4b54-862b-5ec55e3c1ede)
+](images/front-booking.png)
 3) ทดสอบป้อนข้อมูลการจอง โดยระบุชื่อผู้จองเป็นชื่อนักศึกษา และบันทึกผลการทดลองที่มีหน้าสรุปการจอง
 #### บันทึกผลการทดลอง
-![รูปหน้าจองห้องพัก ที่แสดงข้อมูลสรุปการจอง](images-path/image.png)
+!![{DF462DE0-B567-4302-9C60-8BF6E272F84C}](https://github.com/user-attachments/assets/023a14f1-a53d-4c3c-8072-11a17ce47174)
+](images-path/image.png)
 
 4) ใช้ Postman  ตรวจสอบว่ามีข้อมูลการจองเพิ่มไปหรือไม่ (หาก token หมดอายุ ต้องทำการ Login แล้วเปลี่ยนค่า token ใหม่)
 
@@ -1827,7 +1832,8 @@ export default App;
 4) ทำการ Login ด้วย user: admin  password: admin123  หากระบบทำงานถูกต้อง จะแสดงรายการจองห้องพัก
 
 ### บันทึกผลการทดลอง 
-![รูปรายการจองห้องพัก](images-path/image.png)
+![![{2B99EBCE-96A5-401A-AB93-24D3331A79F0}](https://github.com/user-attachments/assets/8070b2b6-885e-48b8-8690-1ad389b0e15f)
+](images-path/image.png)
    
    
 
@@ -1956,7 +1962,8 @@ export default BookingEdit;
 5) แก้ไขข้อมูลการจองและบันทึกรูปผลการทดลอง
    
 ### บันทึกผลการทดลอง
-![ผลการแก้ไขข้อมูลการจอง](./image-path/image.png)
+![![{77CD0610-CDE7-4230-A1AB-72FE4A7EC79B}](https://github.com/user-attachments/assets/78c3c4ce-20ad-46ca-8c6f-7bc0bea21c76)
+](./image-path/image.png)
 
 ### 3.2.8 AdminDashboard Component
 
@@ -2018,6 +2025,7 @@ export default AdminDashboard;
 
 3) บันทึกผลการทดลอง เมื่อกดปุ่ม "สำหรับผู้ดูแลระบบ"
    ### บันทึกผลการทดลอง
-![ผลการแก้ไขข้อมูลการจอง](image-path/image.png)
+![![{FEAF53CD-FC67-4E94-AE13-6A4F79FB8708}](https://github.com/user-attachments/assets/e1cfb463-71fd-4800-9260-9a0a45b1bcfc)
+](image-path/image.png)
 
 
